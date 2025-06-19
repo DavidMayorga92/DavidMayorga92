@@ -4,15 +4,20 @@ Soy un desarrollador web Full-Stack en sus comienzos pero muy apasionado.
 Si no me crees, echa un vistazo a mis proyectos!
 
 ## 🛠️ Tecnologías que manejo
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github" />
-</div>
-
----
+## 🛠️ Tecnologías que manejo
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=💻+Desarrollador+Full+Stack;⚙️+JavaScript%2C+Node.js%2C+React%2C+MongoDB;🎯+Siempre+aprendiendo+y+mejorando" />
+
+| HTML | CSS | JavaScript | PHP | Laravel |
+|------|-----|------------|------------|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> |
+
+| SQL |  Git | GitHub |
+|---------|---------|---------|-----|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/> |
+
 </div>
+
 
 ## 🌟 Proyectos Destacados
 - 🔗 [Mi CV Online](https://davidmayorga92.github.io)

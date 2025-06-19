@@ -17,8 +17,6 @@ Si no me crees, echa un vistazo a mis proyectos!
 
 </div>
 
-
-
 ## 📫 Contacto
-- 📧 davidmayorga@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 📧 davidmayorgaescudero92@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-mayorga-escudero-51b868106/)

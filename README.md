@@ -18,10 +18,6 @@ Si no me crees, echa un vistazo a mis proyectos!
 </div>
 
 
-## 🌟 Proyectos Destacados
-- 🔗 [Mi CV Online](https://davidmayorga92.github.io)
-- 🛒 [E-commerce con React + Firebase](https://github.com/DavidMayorga92/ecommerce-react)
-- ✅ [ToDo App MERN](https://github.com/DavidMayorga92/mern-todo)
 
 ## 📫 Contacto
 - 📧 davidmayorga@example.com

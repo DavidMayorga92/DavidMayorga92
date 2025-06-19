@@ -5,7 +5,7 @@ Si no me crees, echa un vistazo a mis proyectos!
 
 ## 🛠️ Tecnologías que manejo
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github,,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github" />
 </div>
 
 ---
